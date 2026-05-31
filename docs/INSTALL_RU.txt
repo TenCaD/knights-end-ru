@@ -1,0 +1,16 @@
+Русификатор Knights End
+
+Установка:
+1. Закрой игру.
+2. Распакуй содержимое архива в папку игры, где лежит папка KnightsEnd.
+3. Если Windows спросит про замену файлов, согласись.
+4. Запусти игру.
+
+Удаление:
+Удали эти файлы:
+KnightsEnd\Content\Paks\KnightsEnd-Windows_P.pak
+KnightsEnd\Content\Paks\KnightsEnd-Windows_P.ucas
+KnightsEnd\Content\Paks\KnightsEnd-Windows_P.utoc
+
+Примечание:
+Если в папке Paks уже был другой файл KnightsEnd-Windows_P, сделай его копию перед установкой.

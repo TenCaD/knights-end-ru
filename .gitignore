@@ -1,0 +1,38 @@
+# Game / extracted assets
+KnightsEnd/
+Engine/
+legacy_*/
+extracted/
+dump_*/
+work_*/
+patch_*/
+verify_*/
+Output/
+paks_*/
+font_patch_assets*/
+world_sign_font_patch_assets*/
+
+# Build outputs
+dist/
+release-artifacts/
+*.pak
+*.ucas
+*.utoc
+*.zip
+
+# Third-party tools / binaries
+tools/retoc/
+tools/FModel/
+tools/*.exe
+tools/*.dll
+tools/*.zip
+tools/nuget/
+tools/uassetapi_nuget/
+
+# Python / OS
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+Thumbs.db
+
