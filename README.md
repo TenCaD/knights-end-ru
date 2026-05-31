@@ -87,6 +87,6 @@ KnightsEnd\Content\Paks\KnightsEnd-Windows_P.ucas
 KnightsEnd\Content\Paks\KnightsEnd-Windows_P.utoc
 ```
 
-## Памяти
+## Герась
 
 В память о Герасе. Покойся, брат.
