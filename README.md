@@ -9,7 +9,7 @@
 ## Установка
 
 1. Закрой игру.
-2. Скачай `KnightsEnd_RU_patch.zip` из [Releases (v27.04.2025)](https://github.com/TenCaD/knights-end-ru/releases/download/%D0%A0%D1%83%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80/KnightsEnd_RU_patch.zip).
+2. Скачай `KnightsEnd_RU_patch.zip` под подходящую версию игры.
 3. Распакуй содержимое архива в папку игры, где лежит папка `KnightsEnd`.
 4. Согласись на замену файлов, если Windows спросит (не должен).
 5. Запусти игру.
